@@ -1,4 +1,4 @@
 # Hello-world
 
 
-Hello, you guys. It's an experiment on knowint how to use the Github.
+Hello, you guys. It's an experiment on knowing how to use the Github.
